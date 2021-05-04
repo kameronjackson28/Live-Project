@@ -5,6 +5,7 @@ Below are code snippets and description of the stories.
 
 #Debugging Story
 The Donation Button when I started the story was not working, my task was to create a new view and from there create a form. 
+
 ![Donationpicture](https://user-images.githubusercontent.com/73006452/117030745-8bdd4100-acc5-11eb-969e-b8287dd4f502.png)
 
 #Back-End Stories
