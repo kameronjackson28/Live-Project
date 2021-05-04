@@ -19,7 +19,7 @@ My task for this story was to create a model in which the Rental Surveys could b
 * Create SurveyAnalyst:<br>
 My objective for this story was to create a survey analyst class which keeps track of how many times the analyst called the customer back and the amount of time in days that a survey would be offered to the customer
 
-![CreateSurveyAnalyst](https://user-images.githubusercontent.com/73006452/117035194-a5808780-acc9-11eb-89a7-6d5b881aa8f7.png)
+  ![CreateSurveyAnalyst](https://user-images.githubusercontent.com/73006452/117035194-a5808780-acc9-11eb-89a7-6d5b881aa8f7.png)
 
 * Seed SurveyAnalyst:<br>
 For this story it was my job to create a seeding method that would seed one SurveyAnalyst in the database, the second part of this story was to assign "SurveyAnalyst" as role and have that seeded along with the SurveyAnalyst information.
