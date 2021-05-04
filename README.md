@@ -25,4 +25,16 @@ My objective for this story was to create a survey analyst class which keeps tra
 For this story it was my job to create a seeding method that would seed one SurveyAnalyst in the database, the second part of this story was to assign "SurveyAnalyst" as role and have that seeded along with the SurveyAnalyst information.
 ![SeedingSurveyAnalyst](https://user-images.githubusercontent.com/73006452/117035239-b29d7680-acc9-11eb-86f2-cbb5cf3bfbcc.png)
 
+## Front-End Stories
+
+* Survey CRUD Pages
+ For this story I used the .Net Framework to create the CRUD pages from the earlier mentioned RentalSurveys Entity Model. This included Styling it in accordance to the color scheme. The Create and Edit pages were styled the same as per story requirements, I've attached a picture of the create for viewing purposes. Also attached is a snippet of the Details page which is styled similar to the Delete Page.
+ 
+ 
+ ![createRentalSurvey](https://user-images.githubusercontent.com/73006452/117038270-0c537000-accd-11eb-8d0f-310dc564b686.png)
+ 
+ ![detailsforlive](https://user-images.githubusercontent.com/73006452/117038677-8a177b80-accd-11eb-8c93-bdf7f2b85f5d.png)
+ 
+ 
+
 
