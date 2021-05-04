@@ -12,7 +12,7 @@ The Donation Button when I started the story was not working, my task was to cre
 ![Donationpicture](https://user-images.githubusercontent.com/73006452/117030745-8bdd4100-acc5-11eb-969e-b8287dd4f502.png)
 
 # Back-End Stories
-* Rental Survey Entity Model
+* Rental Survey Entity Model<br>
 My task for this story was to create a model in which the Rental Surveys could be saved to the database
 ![RentalSurveyEntity](https://user-images.githubusercontent.com/73006452/117033906-70276a00-acc8-11eb-99de-9559c4ea3c46.png)
 
