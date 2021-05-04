@@ -35,6 +35,13 @@ For this story I used the .Net Framework to create the CRUD pages from the earli
  
  ![detailsforlive](https://user-images.githubusercontent.com/73006452/117038677-8a177b80-accd-11eb-8c93-bdf7f2b85f5d.png)
  
+ ## Skills Learned:<br>
+ * The biggest skill that I learned was when to walk away, prior to this project I had a habit of staring at the computer even when I wasn't getting it done. I realized the 
+ sooner I decided to take a break the sooner my mindset would reset.
+ * Another skill I learned was when to ask for help and when to continue research.
+ * Also to keep persisting and trying out new things, as long as I wasn't making changes to the main branch I didn't have to be afraid of breaking anything
+ * Got more comfortable with version control, making commits often and fetching the main branch daily.
+ 
  
 
 
