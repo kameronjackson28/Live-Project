@@ -4,38 +4,7 @@ Below are code snippets and description of the stories.
 
 #Debugging Story
 The Donation Button when I started the story was not working, my task was to create a new view and from there create a form. 
-<!DOCTYPE html>
-<body>
-    @using (Html.BeginForm("Donate", "Home", FormMethod.Post))
-    {
-    <div class="form-group col-12" >
-        <div class="donate-form">
-            <label class="donate-label">Name&#8727;</label>
-            <input class="donate-name" type="text" placeholder="First Name" />
-            <input class="donate-name" type="text" placeholder="Last Name" />
-        </div>
-        <div class="donate-form">
-            <label class="donate-label">Email Address&#8727;</label>
-            <input class="donate-input" type="text" placeholder="Email Address" />
-        </div>
-        <div class="donate-form">
-            <label class="donate-label">Address</label>
-            <input class="donate-input" type="text" placeholder="Address" />
-        </div>
-        <div class="donate-form">
-            <label class="donate-label">Donation Amount($)&#8727;</label>
-            <input class="donate-input" type="text" placeholder="Donation Amount" />
-        </div>
-        <div class="donate-form">
-            <label class="donate-label">Donation Comments</label>
-            <input class="donate-input" type="text" input style="height:100px;font-size:8pt " placeholder="Place comments here..." />
-        </div>
-            <button type="submit" class="btn btn-light ">Submit</button>
-        </div>
-        }
-</body>
-</html>
-
+(C:\Users\Kameron Jackson\OneDrive\Pictures\Donationpicture.png)
 
 #Back-End Stories
 
