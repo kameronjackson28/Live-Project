@@ -27,8 +27,8 @@ For this story it was my job to create a seeding method that would seed one Surv
 
 ## Front-End Stories
 
-* Survey CRUD Pages
- For this story I used the .Net Framework to create the CRUD pages from the earlier mentioned RentalSurveys Entity Model. This included Styling it in accordance to the color scheme. The Create and Edit pages were styled the same as per story requirements, I've attached a picture of the create for viewing purposes. Also attached is a snippet of the Details page which is styled similar to the Delete Page.
+* Survey CRUD Pages:<br>
+For this story I used the .Net Framework to create the CRUD pages from the earlier mentioned RentalSurveys Entity Model. This included Styling it in accordance to the color scheme. The Create and Edit pages were styled the same as per story requirements, I've attached a picture of the create for viewing purposes. Also attached is a snippet of the Details page which is styled similar to the Delete Page.
  
  
  ![createRentalSurvey](https://user-images.githubusercontent.com/73006452/117038270-0c537000-accd-11eb-8d0f-310dc564b686.png)
