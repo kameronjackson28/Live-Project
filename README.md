@@ -4,7 +4,7 @@ Below are code snippets and description of the stories.
 
 #Debugging Story
 The Donation Button when I started the story was not working, my task was to create a new view and from there create a form. 
-![DonationStory](C:\Users\Kameron Jackson\OneDrive\Pictures\Donationpicture.png)
+![DonationStory](C:/Users/Kameron Jackson/OneDrive/Pictures/Donationpicture.png)
 
 #Back-End Stories
 
